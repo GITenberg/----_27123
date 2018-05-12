@@ -1,0 +1,31 @@
+_repo: '----_27123'
+_version: 0.1.0
+alternative_title:
+- 水调歌头
+- Shui diao ge tou
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Su, Shi
+    alias: 蘇軾
+    birthdate: 1037
+    deathdate: 1101
+    gutenberg_agent_id: '26172'
+    url: http://www.gutenberg.org/2009/agents/26172
+    wikipedia: http://en.wikipedia.org/wiki/Su_Shi
+description: ''
+gutenberg_issued: '2008-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27123'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ci (Chinese poetry)'
+- !lcc 'PL'
+title: 水調歌頭
+url: http://www.gutenberg.org/ebooks/27123
